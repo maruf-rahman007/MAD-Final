@@ -445,13 +445,3 @@ If you encounter any issues or have questions:
 4. Check existing issues for solutions
 
 ---
-
-<div align="center">
-
-**Made with ❤️ using Flutter**
-
-⭐ Star this repo if you find it helpful!
-
-[⬆ Back to Top](#-splitter---expense-splitting--personal-finance-tracker)
-
-</div>
